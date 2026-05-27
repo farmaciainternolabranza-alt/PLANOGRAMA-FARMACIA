@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Editor de zonas · Planograma Farmacia</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Administrador local</p>
+      <h1>Editor de polígonos por mueble</h1>
+    </div>
+    <nav class="topnav">
+      <a href="index.html">Volver al buscador</a>
+      <button id="exportButtonTop" class="primary-button" type="button">Exportar muebles.json</button>
+    </nav>
+  </header>
+
+  <main class="shell">
+    <section class="card">
+      <div class="search-head">
+        <div>
+          <h2>Modo de trabajo</h2>
+          <p class="muted">Este editor funciona en el navegador. Puede cargar fotos locales sin subirlas al repositorio, dibujar polígonos normalizados 0..1 y exportar <code>data/muebles.json</code>.</p>
+        </div>
+        <div id="adminStatus" class="badge">Cargando datos…</div>
+      </div>
+    </section>
+
+    <section class="admin-grid">
+      <aside class="card controls">
+        <div class="section-title">
+          <h2>Datos</h2>
+        </div>
+
+        <div class="button-row">
+          <label class="ghost-button">
+            Cargar productos.json
+            <input id="productosFile" type="file" accept="application/json,.json" hidden />
+          </label>
+          <label class="ghost-button">
+            Cargar muebles.json
+            <input id="mueblesFile" type="file" accept="application/json,.json" hidden />
+          </label>
+        </div>
+
+        <label class="field">
+          Mueble / cara
+          <select id="muebleSelect"></select>
+        </label>
+
+        <label class="field">
+          Ubicación
+          <select id="zoneSelect"></select>
+          <small>La lista se genera desde <code>productos.json</code> y desde las zonas ya existentes en <code>muebles.json</code>.</small>
+        </label>
+
+        <label class="field">
+          Ruta de imagen en repositorio
+          <input id="imagePathInput" placeholder="assets/images/M04B_original.png" />
+          <small>Esta ruta sí queda guardada en muebles.json. La foto local solo sirve para dibujar.</small>
+        </label>
+
+        <label class="field">
+          Cargar foto local para dibujar
+          <input id="imageFile" type="file" accept="image/*" />
+        </label>
+
+        <div class="button-row">
+          <button id="newPolygonButton" class="primary-button" type="button">Nuevo polígono</button>
+          <button id="closePolygonButton" class="ghost-button" type="button">Cerrar polígono</button>
+          <button id="deletePolygonButton" class="danger-button" type="button">Eliminar zona</button>
+        </div>
+
+        <div class="button-row">
+          <button id="deletePointButton" class="ghost-button" type="button">Eliminar último punto</button>
+          <button id="clearDraftButton" class="ghost-button" type="button">Cancelar dibujo</button>
+        </div>
+
+        <div class="button-row">
+          <button id="validateButton" class="ghost-button" type="button">Validar contra Excel/JSON</button>
+          <button id="exportButton" class="primary-button" type="button">Exportar muebles.json</button>
+        </div>
+
+        <div class="fallback-panel">
+          <strong>Instrucciones rápidas</strong>
+          <ol class="muted">
+            <li>Seleccione el mueble y ubicación.</li>
+            <li>Cargue una foto local o use la imagen configurada.</li>
+            <li>Pulse “Nuevo polígono” y haga clic alrededor de la zona.</li>
+            <li>Haga clic cerca del primer punto o pulse “Cerrar polígono”.</li>
+            <li>Arrastre puntos para editar. Exporte el JSON y súbalo a <code>data/muebles.json</code>.</li>
+          </ol>
+        </div>
+
+        <div>
+          <div class="section-title compact">
+            <h3>Validación</h3>
+            <span id="validationSummary" class="muted"></span>
+          </div>
+          <div id="validationList" class="validation-list"></div>
+        </div>
+      </aside>
+
+      <section class="card">
+        <div class="viewer-header">
+          <div>
+            <p id="editorKicker" class="eyebrow">Sin selección</p>
+            <h2 id="editorTitle">Área de dibujo</h2>
+            <p id="editorHelp" class="muted">Cargue una imagen y dibuje zonas con clics. Los puntos se guardan normalizados, por lo que se adaptan a cualquier tamaño de pantalla.</p>
+          </div>
+          <span id="pointCounter" class="zone-tag">0 puntos</span>
+        </div>
+
+        <div id="adminStage" class="admin-stage">
+          <img id="adminImage" alt="Imagen local o del repositorio para dibujar" />
+          <svg id="adminOverlay" class="admin-overlay" viewBox="0 0 1 1" preserveAspectRatio="none"></svg>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div id="toast" class="toast hidden"></div>
+  <script src="admin.js"></script>
+</body>
+</html>

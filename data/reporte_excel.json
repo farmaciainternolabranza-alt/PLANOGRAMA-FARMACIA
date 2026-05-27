@@ -1,0 +1,24 @@
+{
+  "excel": "UBICACION MEDICAMENTOS FARMACIA 2026 (1).xlsx",
+  "total_productos": 324,
+  "warnings": [
+    {
+      "fila": 299,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "BODEGA",
+      "id_mueble_generado": "B01"
+    },
+    {
+      "fila": 319,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "BODEGA",
+      "id_mueble_generado": "B01"
+    }
+  ],
+  "campos": [
+    "producto",
+    "mueble",
+    "id_mueble",
+    "ubicacion"
+  ]
+}

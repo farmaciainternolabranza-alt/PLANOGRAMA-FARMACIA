@@ -1,0 +1,1946 @@
+[
+  {
+    "producto": "Acetato de Medroxiprogesterona 25 mg/Estradiol Cipionato 5 mg en 0,5 ml Suspension Inyectable, ampolla",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Acetato de Medroxiprogesterona Suspención inyectable 104 mg/ 0,65 ml ,ampolla",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Aciclovir Comprimidos 400 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Aciclovir Crema Dermica 5% (15 g)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B1"
+  },
+  {
+    "producto": "Acido Acetil Salicilico Comprimidos 500 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Acido Acetilsalicilico Comprimidos 100 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D9"
+  },
+  {
+    "producto": "Acido Folico 1 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D10"
+  },
+  {
+    "producto": "Acido Folico Comprimidos 5 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D4"
+  },
+  {
+    "producto": "Acido Lactico 16,7 g /Acido Salicilico 16,7 g en 100 g de Solucion Topica, frasco 14 ml (Verrufilm)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Acido Mefenamico Comprimidos 500 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B6"
+  },
+  {
+    "producto": "Acido Tranexamico 500 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Acido Tranexamico Solucion Inyectable 1000 Mg/10 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Acido Valproico 10 mg/gota Solucion para gotas Orales , frasco 25 ml (0,8 ml = 30 gotas )",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Acido Valproico 250 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Acido Valproico 250 mg/ 5 ml Jarabe, frasco 120 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Acido Valproico comprimidos 500 mg Liberación Prolongada",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Acido Valproico Comprimidos Con Recubrimiento Enterico 200 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C1"
+  },
+  {
+    "producto": "Adapaleno 0,1 % Gel Topico , frasco",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Adenosina Solucion Inyectable 6 Mg/2 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Aerocamara Adulto",
+    "mueble": "MUEBLE CAFE",
+    "id_mueble": "CAFE",
+    "ubicacion": "MUEBLE CAFE"
+  },
+  {
+    "producto": "Aerocamara Infantil",
+    "mueble": "MUEBLE CAFE",
+    "id_mueble": "CAFE",
+    "ubicacion": "MUEBLE CAFE"
+  },
+  {
+    "producto": "Aerocamara Neonatal",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Albendazol 200 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Alopurinol 100 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A1"
+  },
+  {
+    "producto": "Alopurinol Comprimidos 300 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "A6"
+  },
+  {
+    "producto": "Alprazolam Comprimidos 0,5 Mg",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Amiodarona Clorhidrato Comprimidos 200 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A3"
+  },
+  {
+    "producto": "Amiodarona Clorhidrato Solucion Inyectable 150 Mg/ 3 Ml Ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Amitriptilina Clorhidrato Comprimidos 25 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D10"
+  },
+  {
+    "producto": "Amlodipino Comprimidos 10 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A4"
+  },
+  {
+    "producto": "Amlodipino Comprimidos 5 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B4"
+  },
+  {
+    "producto": "Amoxicilina Comprimidos 500 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Amoxicilina Polvo P/Susp.Oral 500 Mg/5 Ml (60 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET D2"
+  },
+  {
+    "producto": "Amoxicilina Trihidrato 400 mg/Acido Clavulanico 57 mg en 5 ml, Suspension oral, frasco 70 ml",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET A1"
+  },
+  {
+    "producto": "Amoxicilina/Acido Clavulanico 875/125 Comprimidos Recubiertos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Anfebutamona 150 mg Comprimidos de Liberacion Prolongada (Bupropion)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Antiespasmodicos Adulto Supositorios",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C4"
+  },
+  {
+    "producto": "Aripiprazol 10 Mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D4"
+  },
+  {
+    "producto": "Atenolol 50 Mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B5"
+  },
+  {
+    "producto": "Atorvastatina Calcica 40 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C3"
+  },
+  {
+    "producto": "Atorvastatina Comprimidos Recubiertos 20 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "E5"
+  },
+  {
+    "producto": "Atropina Sulfato Solucion Inyectable 1 Mg/Ml Ampollas De 1 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Atropina Sulfato/Papaverina Clorhidrato Comprimidos (Antiespasmodico Oral)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "B4"
+  },
+  {
+    "producto": "Azitromicina 500 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C10"
+  },
+  {
+    "producto": "Bacitracina + Neomicina Ungüento Dermico (15 g)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "C1"
+  },
+  {
+    "producto": "Bacitracina 500 U.I./Neomicina 3,5mg/Xilometazolina 0,5 mg/Antazolina 5 mg en 1 g de Ungüento Nasal, pomo",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Betametasona Crema Dermica 0,05% (15 g)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "A5"
+  },
+  {
+    "producto": "Betametasona Solucion Inyectable 4 Mg/1 Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "E2"
+  },
+  {
+    "producto": "Betaxolol Solucion Oftalmica 0,5% (5 ml)",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D16"
+  },
+  {
+    "producto": "Bicarbonato De Sodio Solucion Inyect.8,4% (10 ml)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Bromuro De Ipratropio Aerosol Para Inhalacion 20 Mcg/Dosis (200 dos)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET C2"
+  },
+  {
+    "producto": "Budesonida Aerosol P/Inhalacion Bucal 200 Mcg/Dosis (200 dos)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET D1"
+  },
+  {
+    "producto": "Buprenorfina 35 mcg/h Sistema Terapeutico Transdermico , parche",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Calcio Carbonato 500 mg/Vitamina D 800 U.I, Capsulas",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Calcio gluconato amp 10% amp 10 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Calcio Vitamina D Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D13"
+  },
+  {
+    "producto": "Captopril Comprimidos 25 Mg",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Carbamazepina 400 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Carbamazepina Comprimidos 200 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C2"
+  },
+  {
+    "producto": "Carbon Activado Sobre 20g",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Carvedilol 6,25 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B6"
+  },
+  {
+    "producto": "Carvedilol Comprimidos 12,5 Mg.",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D2"
+  },
+  {
+    "producto": "Carvedilol Comprimidos 25 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B3"
+  },
+  {
+    "producto": "Cefadroxilo Capsulas 500 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "C3"
+  },
+  {
+    "producto": "Cefadroxilo Polvo P/Suspen.Oral 250 Mg/5 Ml (60 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B1"
+  },
+  {
+    "producto": "Ceftriaxona Polvo Para Solucion Inyectable 1 G",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Celecoxib Capsulas 200 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "E3"
+  },
+  {
+    "producto": "Cepillo Dental Adulto ud",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Cepillo Dental Infantil ud",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Cepillo Dental Para Protesis",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Cianocobalamina Solucion Inyect.100 Mcg/Ml (amp)",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Ciclobenzaprina Clorhidrato 10 Mg Comprimidos Recubiertos",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "F3"
+  },
+  {
+    "producto": "Ciprofloxacino 0,3 % Solucion Otica, frasco 10 ml (prescribe frasco)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Ciprofloxacino Comprimidos 500 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "A3"
+  },
+  {
+    "producto": "Citalopram 20 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Claritromicina Comprimidos Recubiertos 500 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "C4"
+  },
+  {
+    "producto": "Claritromicina Polvo Para Suspension Oral 250 Mg/5 Ml (60 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B1"
+  },
+  {
+    "producto": "Clobetasol Propionato 0,05% Crema Topica , Pomo 25 gramos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Clonazepam Comprimidos 0,5 Mg",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Clonazepam Comprimidos 2 Mg",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Clonixinato de Lisina 125 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C3"
+  },
+  {
+    "producto": "Clonixinato De Lisina Solucion Inyectable 100 Mg/2 Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "G4"
+  },
+  {
+    "producto": "Clopidogrel 300 mg Comprimidos",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Clopidogrel 75 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "A8"
+  },
+  {
+    "producto": "Cloranfenicol Sol. Oftalmica 0,5% (5ml)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "A2"
+  },
+  {
+    "producto": "Cloranfenicol Unguento Oftalmico 1% (3,5 g)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "A1"
+  },
+  {
+    "producto": "Clorfenamina Maleato Comprimidos 4 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "B2"
+  },
+  {
+    "producto": "Clorfenamina Maleato Solucion Inyectable 10 Mg/Ml ( amp)",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "clorhexidina gluconato 0.12% en 120 ml",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Clorpromazina Clorhidrato 25 Mg/2 Ml Solucion Inyectable Ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Clorpromazina Clorhidrato Comprimidos 100 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Cloruro de Calcio 10% Solucion Inyectable , ampolla 10 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Cloruro de Potasio 10 % Solucion Inyectable , ampolla 10 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Clotiazepam 10 mg Comprimidos",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Clotrimazol 1% Crema Dermica",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "C2"
+  },
+  {
+    "producto": "Clotrimazol 500 Mg Ovulos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C1"
+  },
+  {
+    "producto": "Cloxacilina Polvo P/Solucion Inyect. 500 Mg",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "COMPLEJO B1-B6-B12, AMPOLLAS .",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Complejo Hierro III Polimaltosado 50 mg/1 ml Solucion para gotas Orales , frasco 30 ml (1ml=20 gotas=50 mg)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Cotrimoxazol Forte (Sulfametoxazol 800mg/Trimetoprim 160mg) Comp.",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Dapagliflozina 10 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "DEDAL DE SILICONA DENTAL PEDIATRICO",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Desloratadina Comprimidos Recubiertos 5 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B7"
+  },
+  {
+    "producto": "Dexametasona 4 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Dexametasona Sodio Fosfato 4 mg/1 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Diazepam 10 mg Comprimidos",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Diazepam 10 Mg/2 Ml Solucion Inyectable (amp)",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Diclofenaco Dietilamina 1.16 g en 100 g Gel Topico, Pomo",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Diclofenaco Sodico Comprimidos 50 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "B3"
+  },
+  {
+    "producto": "Diclofenaco Sodico Soluc.Inyectable 75 Mg/3Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "E1"
+  },
+  {
+    "producto": "Diclofenaco Sodico Supositorios Infantil 12,5 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "I5"
+  },
+  {
+    "producto": "Difenidol Clorhidrato 25 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Digoxina Comprimido 0,25 Mg.",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D9"
+  },
+  {
+    "producto": "Disulfiramo Comprimidos 500 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C2"
+  },
+  {
+    "producto": "Domperidona Comprimidos 10 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "F2"
+  },
+  {
+    "producto": "Domperidona Suspension Oral Para Gotas 10 Mg/Ml (20 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B1"
+  },
+  {
+    "producto": "Dopamina Solucion Inyectable 200 Mg/5 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Dorzolamida + Timolol solución oftálmica, frasco 5 ml",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D16"
+  },
+  {
+    "producto": "Doxiciclina Comprimidos 100 Mg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Duloxetina 30 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Empagliflozina 10 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Enalapril Maleato Comprimidos 10 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C9"
+  },
+  {
+    "producto": "Enantato de Noretisterona 50mg; Valerato de estradiol 5mg (Mesigyna inyectable)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Enema De Fosfatos Solucion 130 Ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Enoxaparina 60 mg/ 0,6 ml Solucion Inyectable , jeringa prellenada",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Epinefrina Solucion Inyectable 1 Mg/Ml (amp)",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Eritromicina Comprimidos 500 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "A5"
+  },
+  {
+    "producto": "Escitalopram 10 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D8"
+  },
+  {
+    "producto": "Escitalopram 20 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B5"
+  },
+  {
+    "producto": "Escopolamina N-Butil Bromuro 20 mg/1 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Espironolactona Comprimidos 25 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B1"
+  },
+  {
+    "producto": "Estradiol 1 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Estradiol 1mg / Didrogesterona 5mg, Blister",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Estradiol Micronizado 0,5 mg/aplicacion Gel Transdermico, frasco 35 g",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Eszopiclona 3 mg Comprimidos",
+    "mueble": "MUEBLE CAFE",
+    "id_mueble": "CAFE",
+    "ubicacion": "MUEBLE CAFE"
+  },
+  {
+    "producto": "Etinilestradiol 30 mcg + Levonergestrel 150 mcg Comprimidos.",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Etomidato 20 mg/10 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Etonogestrel 11,7 mg /Etinilestradiol 2,7 mg, anillo Vaginal",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "7"
+  },
+  {
+    "producto": "Etonogestrel 68 mg Implante (Implanon)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "7"
+  },
+  {
+    "producto": "Famotidina Comprimidos 40 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "A2"
+  },
+  {
+    "producto": "Fenitoina Sodica Comprimidos 100 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D3"
+  },
+  {
+    "producto": "Fenobarbital Comprimidos 100 Mg",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "fenoterol bromhidrato y bromuro de ipratropio solucion para nebulizar 40 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Flucloxacilina Capsulas 500 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C7"
+  },
+  {
+    "producto": "Flucloxacilina Polvo Para Jarabe 250 Mg./ 5 Ml. (60 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET A1"
+  },
+  {
+    "producto": "Fluconazol Capsulas 150 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D1"
+  },
+  {
+    "producto": "Flufenazina Decanoato 250 mg/10 ml Solucion Inyectable , ampolla",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Flumazenil Solucion Inyectable 0,5 Mg/5 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Flunarizina 10 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C9"
+  },
+  {
+    "producto": "Fluoxetina Comprimidos 20 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D11"
+  },
+  {
+    "producto": "Fluticasona Propionato 125 mcg/dosis, Aerosol para Inhalacion , 60 dosis (prescribe frasco)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET E1"
+  },
+  {
+    "producto": "Fluticasona Propionato/Salmeterol (125/25) Aerosol Para Inhalacion (120 dos)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Fluticasona Propionato/Salmeterol 250/25 Aerosol Para Inhalacion (120 dos)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B2"
+  },
+  {
+    "producto": "Furosemida Comprimidos 40 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B9"
+  },
+  {
+    "producto": "Furosemida Solucion Inyectable 20 Mg/Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "H2"
+  },
+  {
+    "producto": "Gel lubricante intimo",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Gemfibrozilo Comprimidos Recubiertos 600 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C10"
+  },
+  {
+    "producto": "Gentamicina 80 mg/2 ml Solucion Inyectable ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Glibenclamida 5 Mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D14"
+  },
+  {
+    "producto": "Haloperidol 1 Mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A3"
+  },
+  {
+    "producto": "Haloperidol 5 Mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "8"
+  },
+  {
+    "producto": "Haloperidol Solucion Inyectable 5 mg/Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Hidralazina Clorhidrato 50 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B2"
+  },
+  {
+    "producto": "Hidroclorotiazida + Triamtereno Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B4"
+  },
+  {
+    "producto": "Hidroclorotiazida Comprimidos 50 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "E2"
+  },
+  {
+    "producto": "Hidrocortisona crema 1% (15g)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "A7"
+  },
+  {
+    "producto": "Hidrocortisona Polvo Para Solucion Inyectable 100 Mg",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Hidroxido de aluminio 185 mg/hidroxido de magnesio 200 mg, Suspension Oral, frasco 180 ml",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "8"
+  },
+  {
+    "producto": "Hidroxizina 20 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Ibuprofeno Comprimidos 400 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "D1"
+  },
+  {
+    "producto": "Ibuprofeno Suspension Oral 200 Mg/5 Ml (100 ml)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET C1"
+  },
+  {
+    "producto": "Imipramina Clorhidrato Comprimidos 25 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D6"
+  },
+  {
+    "producto": "Insulina Cristalina fco amp 100 UI / ml fco 10 ml",
+    "mueble": "REFRIGERADOR",
+    "id_mueble": "R01",
+    "ubicacion": "REFRIGERADOR"
+  },
+  {
+    "producto": "Insulina Insulatard Suspension Inyectable 100 U.I./Ml (10 ml)",
+    "mueble": "REFRIGERADOR",
+    "id_mueble": "R01",
+    "ubicacion": "REFRIGERADOR"
+  },
+  {
+    "producto": "Isosorbide Dinitrato Comprimidos 10 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D7"
+  },
+  {
+    "producto": "Ivermectina 1% Crema Topica , pomo",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Jeringa Insulina 1ml",
+    "mueble": "MUEBLE CAFE",
+    "id_mueble": "CAFE",
+    "ubicacion": "MUEBLE CAFE"
+  },
+  {
+    "producto": "Ketoconazol 2 % Shampoo , frasco",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Ketoprofeno Solucion Inyectable 100 Mg/2 Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "G3"
+  },
+  {
+    "producto": "Ketorolaco 10 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Ketorolaco Trometamol Solucion Inyectable 30 Mg/Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "E4"
+  },
+  {
+    "producto": "Lacosamida 100 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Lactulosa Solucion Oral 65% (200 ml)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Lagrimas Artificiales Solucion Oftalmica , frasco",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D15"
+  },
+  {
+    "producto": "Lamotrigina 25 mg Comprimidos Dispersables/Masticables",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Lamotrigina Comprimidos 100 Mg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Lamotrigina Comprimidos 50 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Lanatosido C Solucion Inyectable 0,4 Mg/2 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Latanoprost 50 mcg/1 ml Solucion Oftalmica , frasco 3 ml (prescribe frasco)",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D16"
+  },
+  {
+    "producto": "Levetiracetam 100 mg/1ml Solucion Oral,frasco 300 ml(prescribe ml)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Levetiracetam 1000 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "LEVETIRACETAM 500 mg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Levocetirizina 2,5 mg/5 ml jarabe, frasco 100 ml",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Levocetirizina 5 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Levodopa 200mg + Benserazida 50mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Levodopa 250 mg+ carbidopa 25 mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Levonorgestrel 1,5mg Comprimido",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Levonorgestrel 20 mcg/24 hrs sistema intrauterino",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "7"
+  },
+  {
+    "producto": "Levonorgestrel 75 mg Implante Subcutaneo , 2 unidades",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "7"
+  },
+  {
+    "producto": "Levonorgestrel Comprimidos Recubiertos 30 Mcg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Levotiroxina Sodica Comprimidos 100 Mcg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "E6"
+  },
+  {
+    "producto": "Levotiroxina Sodica Comprimidos 50 Mcg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A5"
+  },
+  {
+    "producto": "Lidocaina Clorhidrato 2% Solucion Inyectable Ampollas De 5 Ml",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "H5"
+  },
+  {
+    "producto": "Loratadina 10 Mg Comprimidos",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "D2"
+  },
+  {
+    "producto": "Lorazepam 2 mg Comprimidos",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Lorazepam Solucion Inyectable 4 Mg/2 Ml (amp)",
+    "mueble": "REFRIGERADOR",
+    "id_mueble": "R01",
+    "ubicacion": "REFRIGERADOR"
+  },
+  {
+    "producto": "Losartan Potasico Comprimidos Recubiertos 50 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B3"
+  },
+  {
+    "producto": "Mebendazol 100 mg/5 ml Suspension Oral , frasco 35 ml",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Medroxiprogesterona amp. 150 mg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "6"
+  },
+  {
+    "producto": "Melatonina 3 mg Capsulas",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Meloxicam 15 mg Comprimidos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C6"
+  },
+  {
+    "producto": "Metamizol Sodico (Dipirona) Sol.Iny.1 G/2 Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "H1"
+  },
+  {
+    "producto": "Metamizol Sodico 300 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Metformina Clorhidrato 1000 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C5"
+  },
+  {
+    "producto": "Metformina Clorhidrato Comprimidos Recubiertos 850 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A6"
+  },
+  {
+    "producto": "Metildopa 250 mg comprimido",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A2"
+  },
+  {
+    "producto": "Metilfenidato 20 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Metilfenidato Clorhidrato 10 mg Comprimidos",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Metoclopramida Clorhidrato 10 mg/2 ml Solucion Inyectable , ampolla",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "G1"
+  },
+  {
+    "producto": "Metoclopramida Clorhidrato Comprimidos 10 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "B1"
+  },
+  {
+    "producto": "Metronidazol 0,75 % gel dermico , pomo",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Metronidazol Comprimidos Recubiertos 500 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D3"
+  },
+  {
+    "producto": "Metronidazol Ovulos 500 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C5"
+  },
+  {
+    "producto": "Midazolam 5 mg/1 ml Solucion Inyectable , ampolla",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Midazolam Solucion Inyectable 15 Mg/3 Ml (amp)",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Mirtazapina 15 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A3"
+  },
+  {
+    "producto": "Mirtazapina 30 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Mometasona 50 mcg/dosis Suspensión para nebulización nasal, frasco 120 dosis (prescribe dosis)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Morfina 20 mg/1 ml Solucion oral , frasco (prescribe frasco)",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Morfina 30 mg Capsulas con Microgranulos de Liberacion prolongada",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Morfina Clorhidrato Solucion Inyect. 10 Mg/Ml (amp)",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Naloxona Clorhidrato Solucion Inyectable 0,4 Mg/1 Ml (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Naproxeno Sodico 550 Mg Comprimidos Recubiertos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "B8"
+  },
+  {
+    "producto": "Nifedipino Comprimidos De Liberacion Prolongada 20 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D12"
+  },
+  {
+    "producto": "Nistatina Suspension Oral 100.000 Ui/Ml. (20 ml)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Nitrofurantoina Macrocristales, Capsulas 100 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "D2"
+  },
+  {
+    "producto": "Nitroglicerina Solucion Inyectable 50 Mg/10 Ml Ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Norepinefrina 4 mg/4 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Omeprazol Capsulas 20 Mg",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "E4"
+  },
+  {
+    "producto": "Omeprazol Capsulas 20 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D7"
+  },
+  {
+    "producto": "Ondansetron 8 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Ondansetron 8 mg/4 ml Solución Inyectable, ampolla",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "F4"
+  },
+  {
+    "producto": "Ondansetron Solucion Inyectable 4 Mg/2 Ml (amp)",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Oseltamivir 12 mg/ ml Polvo para suspensión oral Frasco 75 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Oseltamivir 75mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Oxcarbazepina 300 mg Comprimidos",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Oxcarbazepina 60 mg/1 ml Suspension Oral, frasco",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Paracetamol 10 mg/ml solución para perfusión, ampolla 100 ml",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Paracetamol 125 Mg Supositorios",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "I3"
+  },
+  {
+    "producto": "Paracetamol 500 Mg Comprimidos",
+    "mueble": "SOBRE LA MESA",
+    "id_mueble": "SOBRE LA MESA",
+    "ubicacion": "SOBRE LA MESA"
+  },
+  {
+    "producto": "Paracetamol 80 mg Comprimidos",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "I2"
+  },
+  {
+    "producto": "Paracetamol Solucion Oral Para Gotas 100 Mg/Ml (15 ml)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "D4"
+  },
+  {
+    "producto": "PARGEVERINA CLORHIDRATO 5 MG / ML SOLUCION PARA GOTAS 0,5% FRASCO 15 ML",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Pargeverina Clorhidrato Solucion Inyectable 5 Mg/Ml. (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "E3"
+  },
+  {
+    "producto": "Paroxetina 20 Mg Comprimidos Recubiertos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C8"
+  },
+  {
+    "producto": "Pasta dental 5000 ppm Fluor",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Pasta Dental Adulto",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Pasta Lassar (30 g)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "PEDICULOCIDA LOCION 100 ML",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Penicilina G Benzatina 1.200.000 U.I. Polvo P/Suspension Inyectable (amp)",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Penicilina G Sodica Polvo Para Solucion Inyectable 1.000.000 U.I. (amp)",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Permetrina 1% Shampoo , frasco 100 ml",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Picosulfato de Sodio 0,75% Solucion Oral ,frasco 10 ml (prescribe gotas)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Piridoxina Clorhidrato Solucion Inyectable 100 Mg/Ml (amp)",
+    "mueble": "SIN STOCK",
+    "id_mueble": "SIN STOCK",
+    "ubicacion": "SIN STOCK"
+  },
+  {
+    "producto": "Polietilenglicol 3350 sobre",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Polivitamínico ACD Gotas Frasco(30 Ml)",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Pomada Azufrada 6% (40 g)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Pramipexol 1 mg.",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Pramiprexol Diclorhidrato 0.25 mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Prednisona 5 Mg Comprimidos",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "A4"
+  },
+  {
+    "producto": "Prednisona Comprimidos 20 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "B5"
+  },
+  {
+    "producto": "Prednisona suspension oral 20mg/5ml 60ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
+  },
+  {
+    "producto": "Pregabalina 75 mg Capsulas",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B2"
+  },
+  {
+    "producto": "Preservativos",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "E1"
+  },
+  {
+    "producto": "Primidona 250 Mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Progesterona Micronizada 100mg Capsulas",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Progesterona Micronizada 200mg",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Propanolol Clorhidrato 1Mg/1Ml inyectable Ampolla 1 ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Propanolol Comprimidos 40 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C11"
+  },
+  {
+    "producto": "Proparacaina Gotas Solucion Oftalmica 0,5% 15Ml",
+    "mueble": "REFRIGERADOR",
+    "id_mueble": "R01",
+    "ubicacion": "REFRIGERADOR"
+  },
+  {
+    "producto": "Quetiapina 100 mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D6"
+  },
+  {
+    "producto": "Quetiapina 25 mg.",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C4"
+  },
+  {
+    "producto": "Ranitidina Solucion Inyectable 50 Mg/2 Ml",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "G2"
+  },
+  {
+    "producto": "Risperidona 1 mg comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Risperidona 3 mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Risperidona Solucion Oral 1 Mg/Ml Frasco 30 Ml",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Salbutamol Aerosol Para Inhalacion 100 Mcg/Dosis (200 dos)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET A2"
+  },
+  {
+    "producto": "Salbutamol Solucion P/Inhalacion A Nebulizar 5 Mg/Ml (20 ml)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Sales Para Rehidratacion Oral-60 Polvo Para Solucion (sac)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Sales Para Rehidratacion Oral-90 Polvo Para Solucion. (sac)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "2"
+  },
+  {
+    "producto": "Salmeterol Aerosol P/Inhalacion 25 Mcg/Dosis (120 dos)",
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "BASKET B1"
+  },
+  {
+    "producto": "Seda Dental",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Sertralina Comprimidos Recubiertos 100 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C8"
+  },
+  {
+    "producto": "Sertralina Comprimidos Recubiertos 50 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D8"
+  },
+  {
+    "producto": "Sulfato De Magnesio Solucion Inyectable 25% (amp)",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Sulfato Ferroso + Acido Folico + Vitamina B12 + Vitamina C. Capsulas microgranulo de liberacion sostenida",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A8"
+  },
+  {
+    "producto": "Suxametonio Cloruro Liofil.P/Solucion Inyect. 100 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "T.C.U. de Cobre",
+    "mueble": "BODEGA",
+    "id_mueble": "B01",
+    "ubicacion": "BODEGA"
+  },
+  {
+    "producto": "Tacrolimus 0,1 % Ungüento Dermico, pomo 15 gramos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Tamsulosina Clorhidrato 0,4 mg Capsula",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "A7"
+  },
+  {
+    "producto": "Tenecteplase 10000 UI",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Terbinafina Comprimidos 250 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B10"
+  },
+  {
+    "producto": "Test de Embarazo",
+    "mueble": "ESCRITORIO BLANCO",
+    "id_mueble": "EB",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Tiamazol 10 mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Tiamina Clorh.Solucion Inyectable 30 Mg/1 Ml (amp)",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "H3"
+  },
+  {
+    "producto": "Tibolona 2,5 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "9"
+  },
+  {
+    "producto": "Timolol Solucion Oftalmica 0,5% (5 ml)",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D16"
+  },
+  {
+    "producto": "Topiramato 100mg Comprimidos",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Tramadol Clorhidrato 100 mg Capsulas",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Tramadol Clorhidrato 100 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "4"
+  },
+  {
+    "producto": "Tramadol Clorhidrato 100 mg/2 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Tramadol Clorhidrato Capsulas 50 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D5"
+  },
+  {
+    "producto": "Tramadol Clorhidrato Gotas orales 100 Mg/Ml Frasco 10 Ml",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B1"
+  },
+  {
+    "producto": "Trazodona 100 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B8"
+  },
+  {
+    "producto": "Trazodona 25 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Trihexifenidilo Clorhidrato Comprimidos 2 Mg",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "3"
+  },
+  {
+    "producto": "Urea 10 % crema 30 gramos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Vaselina Liquida Medicinal (120 ml)",
+    "mueble": "BODEGA",
+    "id_mueble": "B01",
+    "ubicacion": "BODEGA"
+  },
+  {
+    "producto": "Vaselina Salicilada 5 % Pomada, frasco 25 gramos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04B",
+    "ubicacion": "10"
+  },
+  {
+    "producto": "Venlafaxina 75 mg XR cápsulas con gránulos recubiertos de liberación prolongada",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "B7"
+  },
+  {
+    "producto": "Verapamilo Clorhidrato 5 mg/2 ml Solucion Inyectable , ampolla",
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05B",
+    "ubicacion": "5"
+  },
+  {
+    "producto": "Vildagliptina 50 mg Comprimidos",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C7"
+  },
+  {
+    "producto": "Zolpidem Tartrato 10 mg Comprimidos",
+    "mueble": "CONTROLADOS",
+    "id_mueble": "SUJETO CONTROL LEGAL",
+    "ubicacion": "CONTROLADOS"
+  },
+  {
+    "producto": "Zopiclona Comprimidos Recubiertos 7,5 Mg",
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "C6"
+  }
+]

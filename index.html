@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Planograma Farmacia</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Farmacia · Planograma digital</p>
+      <h1>Buscador de ubicación de medicamentos</h1>
+    </div>
+    <nav class="topnav">
+      <a href="admin.html">Editor de zonas</a>
+      <button id="themeButton" class="ghost-button" type="button">Contraste</button>
+    </nav>
+  </header>
+
+  <main class="shell">
+    <section class="card search-card">
+      <div class="search-head">
+        <div>
+          <h2>Buscar producto</h2>
+          <p>Busca por texto libre. Ejemplo: <button class="inline-link" data-query="paracetamol" type="button">paracetamol</button>, <button class="inline-link" data-query="comprimidos" type="button">comprimidos</button>.</p>
+        </div>
+        <div id="statusBadge" class="badge">Cargando…</div>
+      </div>
+
+      <label class="search-box">
+        <span>Texto a buscar</span>
+        <input id="searchInput" autocomplete="off" placeholder="Ej: paracetamol, losartán, jarabe…" />
+      </label>
+
+      <div class="toolbar">
+        <label class="check">
+          <input id="showAllZones" type="checkbox" />
+          <span>Mostrar todas las zonas del mueble</span>
+        </label>
+        <button id="clearButton" class="ghost-button" type="button">Limpiar</button>
+      </div>
+
+      <div id="stats" class="stats-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="layout">
+      <aside class="card results-card">
+        <div class="section-title">
+          <h2>Resultados</h2>
+          <span id="resultCount" class="muted">0</span>
+        </div>
+        <div id="results" class="results"></div>
+      </aside>
+
+      <section class="card viewer-card">
+        <div id="viewerEmpty" class="empty-state">
+          <div class="empty-icon">⌕</div>
+          <h2>Seleccione un producto</h2>
+          <p>Al hacer clic en un resultado se abrirá el mueble y se resaltará la ubicación. Si no existe foto o polígono, se mostrará la ubicación textual sin romper el sistema.</p>
+        </div>
+
+        <div id="viewer" class="viewer hidden">
+          <div class="viewer-header">
+            <div>
+              <p id="viewerKicker" class="eyebrow"></p>
+              <h2 id="viewerTitle"></h2>
+              <p id="viewerSubtitle" class="muted"></p>
+            </div>
+            <span id="viewerTag" class="zone-tag"></span>
+          </div>
+
+          <div id="imagePanel" class="image-panel hidden">
+            <div class="planogram-stage">
+              <img id="muebleImage" alt="Imagen del mueble seleccionado" />
+              <svg id="zoneOverlay" class="zone-overlay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg>
+            </div>
+            <p id="imageNote" class="helper"></p>
+          </div>
+
+          <div id="fallbackPanel" class="fallback-panel hidden"></div>
+
+          <div class="section-title compact">
+            <h3>Productos en esta misma ubicación</h3>
+            <span id="sameLocationCount" class="muted"></span>
+          </div>
+          <div id="sameLocationList" class="same-location"></div>
+        </div>
+      </section>
+    </section>
+
+    <section class="card muebles-card">
+      <div class="section-title">
+        <h2>Muebles cargados</h2>
+        <span class="muted">Vista rápida</span>
+      </div>
+      <div id="muebleList" class="mueble-list"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Datos: <code>data/productos.json</code> + <code>data/muebles.json</code></span>
+    <span>Sin backend · compatible con GitHub Pages</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

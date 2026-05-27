@@ -1,0 +1,56 @@
+{
+  "total_productos": 324,
+  "total_muebles_excel": 14,
+  "total_zonas_excel": 151,
+  "zonas_sin_entrada_en_muebles_json": [],
+  "zonas_sin_poligono": [
+    {
+      "id_mueble": "B01",
+      "mueble": "BODEGA",
+      "ubicacion": "BODEGA",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "M01",
+      "mueble": "MUEBLE NUEVO GRIS",
+      "ubicacion": "E5",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "M01",
+      "mueble": "MUEBLE NUEVO GRIS",
+      "ubicacion": "E6",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "M05B",
+      "mueble": "ISLA LATERAL",
+      "ubicacion": "4",
+      "notes": "Ubicación registrada en Excel; falta dibujar polígono específico en esta cara."
+    },
+    {
+      "id_mueble": "R01",
+      "mueble": "REFRIGERADOR",
+      "ubicacion": "REFRIGERADOR",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "SIN STOCK",
+      "mueble": "SIN STOCK",
+      "ubicacion": "SIN STOCK",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "SOBRE LA MESA",
+      "mueble": "SOBRE LA MESA",
+      "ubicacion": "SOBRE LA MESA",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    },
+    {
+      "id_mueble": "SUJETO CONTROL LEGAL",
+      "mueble": "CONTROLADOS",
+      "ubicacion": "CONTROLADOS",
+      "notes": "Ubicación textual sin polígono definido todavía."
+    }
+  ]
+}
