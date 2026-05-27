@@ -342,6 +342,12 @@
     "ubicacion": "1"
   },
   {
+    "producto": "Carbamazepina 200 mg Comprimidos de Liberacion Prolongada",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
+  },
+  {
     "producto": "Carbamazepina 400 mg Comprimidos de Liberacion Prolongada",
     "mueble": "ISLA LATERAL",
     "id_mueble": "M05A",
@@ -422,7 +428,7 @@
   {
     "producto": "Cianocobalamina Solucion Inyect.100 Mcg/Ml (amp)",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -494,7 +500,7 @@
   {
     "producto": "Clopidogrel 300 mg Comprimidos",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -878,7 +884,7 @@
   {
     "producto": "Flufenazina Decanoato 250 mg/10 ml Solucion Inyectable , ampolla",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -1105,9 +1111,9 @@
   },
   {
     "producto": "Lamotrigina 25 mg Comprimidos Dispersables/Masticables",
-    "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
-    "ubicacion": "SIN STOCK"
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
   },
   {
     "producto": "Lamotrigina Comprimidos 100 Mg",
@@ -1340,7 +1346,7 @@
   {
     "producto": "Midazolam 5 mg/1 ml Solucion Inyectable , ampolla",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -1454,7 +1460,7 @@
   {
     "producto": "Ondansetron Solucion Inyectable 4 Mg/2 Ml (amp)",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -1471,20 +1477,20 @@
   },
   {
     "producto": "Oxcarbazepina 300 mg Comprimidos",
-    "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
-    "ubicacion": "SIN STOCK"
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
   },
   {
     "producto": "Oxcarbazepina 60 mg/1 ml Suspension Oral, frasco",
-    "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
-    "ubicacion": "SIN STOCK"
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
   },
   {
     "producto": "Paracetamol 10 mg/ml solución para perfusión, ampolla 100 ml",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -1568,19 +1574,19 @@
   {
     "producto": "Permetrina 1% Shampoo , frasco 100 ml",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
     "producto": "Picosulfato de Sodio 0,75% Solucion Oral ,frasco 10 ml (prescribe gotas)",
     "mueble": "ISLA LATERAL",
-    "id_mueble": "M05B",
+    "id_mueble": "M05A",
     "ubicacion": "4"
   },
   {
     "producto": "Piridoxina Clorhidrato Solucion Inyectable 100 Mg/Ml (amp)",
     "mueble": "SIN STOCK",
-    "id_mueble": "SIN STOCK",
+    "id_mueble": "SIN_STOCK",
     "ubicacion": "SIN STOCK"
   },
   {
@@ -1784,7 +1790,7 @@
   {
     "producto": "T.C.U. de Cobre",
     "mueble": "BODEGA",
-    "id_mueble": "B01",
+    "id_mueble": "BODEGA",
     "ubicacion": "BODEGA"
   },
   {
@@ -1904,7 +1910,7 @@
   {
     "producto": "Vaselina Liquida Medicinal (120 ml)",
     "mueble": "BODEGA",
-    "id_mueble": "B01",
+    "id_mueble": "BODEGA",
     "ubicacion": "BODEGA"
   },
   {
@@ -1924,6 +1930,12 @@
     "mueble": "ISLA LATERAL",
     "id_mueble": "M05B",
     "ubicacion": "5"
+  },
+  {
+    "producto": "Vigabatrina 500 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "3"
   },
   {
     "producto": "Vildagliptina 50 mg Comprimidos",

@@ -1,18 +1,54 @@
 {
   "excel": "UBICACION MEDICAMENTOS FARMACIA 2026 (1).xlsx",
-  "total_productos": 324,
+  "total_productos": 326,
   "warnings": [
     {
-      "fila": 299,
+      "fila": 73,
       "tipo": "ID_MUEBLE vacío",
-      "mueble": "BODEGA",
-      "id_mueble_generado": "B01"
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
     },
     {
-      "fila": 319,
+      "fila": 85,
       "tipo": "ID_MUEBLE vacío",
-      "mueble": "BODEGA",
-      "id_mueble_generado": "B01"
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 149,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 226,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 245,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 250,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 264,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
+    },
+    {
+      "fila": 266,
+      "tipo": "ID_MUEBLE vacío",
+      "mueble": "SIN STOCK",
+      "id_mueble_generado": "SIN_STOCK"
     }
   ],
   "campos": [

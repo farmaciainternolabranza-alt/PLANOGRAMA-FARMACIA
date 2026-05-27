@@ -1,15 +1,24 @@
 {
-  "total_productos": 324,
+  "total_productos": 326,
   "total_muebles_excel": 14,
-  "total_zonas_excel": 151,
-  "zonas_sin_entrada_en_muebles_json": [],
-  "zonas_sin_poligono": [
+  "total_zonas_excel": 150,
+  "zonas_sin_entrada_en_muebles_json": [
     {
-      "id_mueble": "B01",
+      "id_mueble": "BODEGA",
       "mueble": "BODEGA",
-      "ubicacion": "BODEGA",
-      "notes": "Ubicación textual sin polígono definido todavía."
+      "ubicaciones": [
+        "BODEGA"
+      ]
     },
+    {
+      "id_mueble": "SIN_STOCK",
+      "mueble": "SIN STOCK",
+      "ubicaciones": [
+        "SIN STOCK"
+      ]
+    }
+  ],
+  "zonas_sin_poligono": [
     {
       "id_mueble": "M01",
       "mueble": "MUEBLE NUEVO GRIS",
@@ -23,21 +32,9 @@
       "notes": "Ubicación textual sin polígono definido todavía."
     },
     {
-      "id_mueble": "M05B",
-      "mueble": "ISLA LATERAL",
-      "ubicacion": "4",
-      "notes": "Ubicación registrada en Excel; falta dibujar polígono específico en esta cara."
-    },
-    {
       "id_mueble": "R01",
       "mueble": "REFRIGERADOR",
       "ubicacion": "REFRIGERADOR",
-      "notes": "Ubicación textual sin polígono definido todavía."
-    },
-    {
-      "id_mueble": "SIN STOCK",
-      "mueble": "SIN STOCK",
-      "ubicacion": "SIN STOCK",
       "notes": "Ubicación textual sin polígono definido todavía."
     },
     {
