@@ -291,7 +291,7 @@
     "producto": "Betaxolol Solucion Oftalmica 0,5% (5 ml)",
     "mueble": "MUEBLE NUEVO GRIS",
     "id_mueble": "M01",
-    "ubicacion": "D16"
+    "ubicacion": "D1"
   },
   {
     "producto": "Bicarbonato De Sodio Solucion Inyect.8,4% (10 ml)",
@@ -463,9 +463,9 @@
   },
   {
     "producto": "Claritromicina Polvo Para Suspension Oral 250 Mg/5 Ml (60 ml)",
-    "mueble": "MUEBLE DOS PISOS",
-    "id_mueble": "M02",
-    "ubicacion": "BASKET B1"
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
   },
   {
     "producto": "Clobetasol Propionato 0,05% Crema Topica , Pomo 25 gramos",
@@ -697,9 +697,9 @@
   },
   {
     "producto": "Domperidona Suspension Oral Para Gotas 10 Mg/Ml (20 ml)",
-    "mueble": "MUEBLE DOS PISOS",
-    "id_mueble": "M02",
-    "ubicacion": "BASKET B1"
+    "mueble": "ISLA LATERAL",
+    "id_mueble": "M05A",
+    "ubicacion": "1"
   },
   {
     "producto": "Dopamina Solucion Inyectable 200 Mg/5 Ml (amp)",
@@ -711,7 +711,7 @@
     "producto": "Dorzolamida + Timolol solución oftálmica, frasco 5 ml",
     "mueble": "MUEBLE NUEVO GRIS",
     "id_mueble": "M01",
-    "ubicacion": "D16"
+    "ubicacion": "C11"
   },
   {
     "producto": "Doxiciclina Comprimidos 100 Mg",
@@ -769,9 +769,9 @@
   },
   {
     "producto": "Escitalopram 10 mg Comprimidos",
-    "mueble": "MUEBLE DOS PISOS",
-    "id_mueble": "M02",
-    "ubicacion": "D8"
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D16"
   },
   {
     "producto": "Escitalopram 20 mg Comprimidos",
@@ -991,9 +991,9 @@
   },
   {
     "producto": "Hidroclorotiazida Comprimidos 50 Mg",
-    "mueble": "MUEBLE DOS PISOS",
-    "id_mueble": "M02",
-    "ubicacion": "E2"
+    "mueble": "MUEBLE NUEVO GRIS",
+    "id_mueble": "M01",
+    "ubicacion": "D7"
   },
   {
     "producto": "Hidrocortisona crema 1% (15g)",
@@ -1024,6 +1024,12 @@
     "mueble": "VERTICAL GAVETAS",
     "id_mueble": "M03",
     "ubicacion": "D1"
+  },
+  {
+    "producto": "Ibuprofeno Comprimidos 400 Mg",
+    "mueble": "VERTICAL GAVETAS",
+    "id_mueble": "M03",
+    "ubicacion": "D3"
   },
   {
     "producto": "Ibuprofeno Suspension Oral 200 Mg/5 Ml (100 ml)",
@@ -1137,7 +1143,7 @@
     "producto": "Latanoprost 50 mcg/1 ml Solucion Oftalmica , frasco 3 ml (prescribe frasco)",
     "mueble": "MUEBLE NUEVO GRIS",
     "id_mueble": "M01",
-    "ubicacion": "D16"
+    "ubicacion": "C11"
   },
   {
     "producto": "Levetiracetam 100 mg/1ml Solucion Oral,frasco 300 ml(prescribe ml)",
@@ -1441,9 +1447,9 @@
   },
   {
     "producto": "Omeprazol Capsulas 20 Mg",
-    "mueble": "MUEBLE NUEVO GRIS",
-    "id_mueble": "M01",
-    "ubicacion": "D7"
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "E2"
   },
   {
     "producto": "Ondansetron 8 mg Comprimidos",
@@ -1486,6 +1492,12 @@
     "mueble": "ISLA CENTRAL",
     "id_mueble": "M04A",
     "ubicacion": "3"
+  },
+  {
+    "producto": "Paracetamol 325 mg/ Tramadol 37,5 mg Comprimidos",
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
   },
   {
     "producto": "Paracetamol 10 mg/ml solución para perfusión, ampolla 100 ml",
@@ -1675,9 +1687,9 @@
   },
   {
     "producto": "Propanolol Comprimidos 40 Mg",
-    "mueble": "MUEBLE NUEVO GRIS",
-    "id_mueble": "M01",
-    "ubicacion": "C11"
+    "mueble": "MUEBLE DOS PISOS",
+    "id_mueble": "M02",
+    "ubicacion": "C2"
   },
   {
     "producto": "Proparacaina Gotas Solucion Oftalmica 0,5% 15Ml",
@@ -1845,7 +1857,7 @@
     "producto": "Timolol Solucion Oftalmica 0,5% (5 ml)",
     "mueble": "MUEBLE NUEVO GRIS",
     "id_mueble": "M01",
-    "ubicacion": "D16"
+    "ubicacion": "D1"
   },
   {
     "producto": "Topiramato 100mg Comprimidos",
@@ -1875,7 +1887,7 @@
     "producto": "Tramadol Clorhidrato Capsulas 50 Mg",
     "mueble": "MUEBLE NUEVO GRIS",
     "id_mueble": "M01",
-    "ubicacion": "D5"
+    "ubicacion": "C8"
   },
   {
     "producto": "Tramadol Clorhidrato Gotas orales 100 Mg/Ml Frasco 10 Ml",
@@ -1909,9 +1921,9 @@
   },
   {
     "producto": "Vaselina Liquida Medicinal (120 ml)",
-    "mueble": "BODEGA",
-    "id_mueble": "BODEGA",
-    "ubicacion": "BODEGA"
+    "mueble": "ISLA CENTRAL",
+    "id_mueble": "M04A",
+    "ubicacion": "2"
   },
   {
     "producto": "Vaselina Salicilada 5 % Pomada, frasco 25 gramos",
